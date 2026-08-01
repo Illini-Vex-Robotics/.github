@@ -20,7 +20,7 @@ This organization hosts the code behind our robots and our internal tooling, and
 
 ## Projects
 
-Over the course of the 2026-2027 Vex U Override Season, our Prog team will write driver control and autonomous routines for ILLIN1. Our main technical goal is to implement **Monte Carlo Localization**, fusing three sources of
+Over the course of the 2026-2027 Vex U Override Season, our Prog team will write driver control and autonomous routines for ILLIN1 and ILLIN2 (repositories are private and seperate between teams to ensure no <G5> violations occur, repositories will be shared only at the end of the season). Our main technical goal is to implement **Monte Carlo Localization**, fusing three sources of
 position data:
 
 - **Odometry** — tracking wheel encoders for dead reckoning
