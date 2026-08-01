@@ -23,9 +23,9 @@ This organization hosts the code behind our robots and our internal tooling, and
 Over the course of the 2026-2027 Vex U Override Season, our Prog team will write driver control and autonomous routines for ILLIN1 and ILLIN2 (repositories are private and seperate between teams to ensure no <G5> violations occur, repositories will be shared only at the end of the season). Our main technical goal is to implement **Monte Carlo Localization**, fusing three sources of
 position data:
 
-- **Odometry** — tracking wheel encoders for dead reckoning
-- **Distance sensors** — field wall references to correct drift
-- **Computer vision** — April tag reading for global position recovery
+- **Odometry:** tracking wheel encoders for dead reckoning
+- **Distance sensors:** field wall references to correct drift
+- **Computer vision:** April tag reading for global position recovery
 
 We aim to write a well documented, clean, and easily extensible codebase that will benefit this and other organizations in future seasons.
 
