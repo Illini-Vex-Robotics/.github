@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/youtube-Illini%20VEX%20Robotics-13294B?style=flat-square)](https://www.youtube.com/channel/UC20aqgUZlO0fdpVpTe-kwJA)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Illini%20VEX%20Robotics-FF5F05?style=flat-square)](https://www.linkedin.com/company/illini-vex-robotics)
 
-<img src="assets/ivr_worlds.jpg" alt="Team at pushback worlds" width="810">
+<img src="assets/ivr_worlds.jpg" alt="Team at pushback worlds" width="500">
 
 </div>
 
